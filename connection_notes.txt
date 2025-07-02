@@ -1,0 +1,10 @@
+
+Circuit Connections:
+
+- Fingerprint sensor TX → Arduino pin 2
+- Fingerprint sensor RX → Arduino pin 3
+- Fingerprint sensor VCC → 5V
+- Fingerprint sensor GND → GND
+- Relay IN → Arduino pin 8
+- Solenoid lock VCC → External 12V
+- Solenoid lock GND → Common GND
