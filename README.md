@@ -55,4 +55,4 @@ Fingerprint-Door-Lock/
 This project is licensed under the MIT License.
 
 ## 💬 Contact
-For queries or collaboration: verma.devansh222@gmail.com
+For queries or collaboration: dikshashrivastva173@gmail.com
